@@ -1,0 +1,24 @@
+{
+  "name": "promises-book-examples",
+  "version": "1.0.0",
+  "description": "Code examples from \"JavaScript with Promises: Managing Asynchronous Code\"",
+  "main": "prism.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-static": "^0.7.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dxparker/promises-book-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dxparker/promises-book-examples/issues"
+  },
+  "homepage": "https://github.com/dxparker/promises-book-examples#readme"
+}
