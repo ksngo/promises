@@ -3,7 +3,7 @@ const path = require('path')
 const app = express()
 const port = 3000
 
-app.use('/static',express.static(path.join(__dirname,'promises-book-examples')))
+app.use('/static',express.static(path.join(__dirname,'examples')))
 
 
 app.get('/', (req, res)=>{
